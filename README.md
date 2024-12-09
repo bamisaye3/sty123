@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Timothy Bamisaye</h1>
-        <img src="profile.jpg" alt="Profile Picture">
+        <img src="1720333200838.jpg" alt="Profile Picture">
     </header>
     <nav>
         <ul>
